@@ -35,12 +35,13 @@
 
 
 ----
-![snake gif](https://github.com/vtmint/vtmint/blob/output/github-contribution-grid-snake.svg)
-  
-  <br>
-  <p align="center">
-  <img src="https://github.com/vtmint/vtmint/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+## Contribution Snake 
+
+<br>
+<p align="center">
+  <img src="https://github.com/vtmint/vtmint/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
 
 
 ------
