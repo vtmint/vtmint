@@ -21,7 +21,7 @@ jobs:
           github_user_name: vtmint 
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=custom&color_snake=00FF7F&color_dots=00FF7F&color_empty=1E1E1E
+            dist/github-contribution-grid-snake-light.svg??palette=github-light
             dist/github-contribution-grid-snake.gif
 
       
