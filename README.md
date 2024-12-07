@@ -1,7 +1,7 @@
 <h1 align='center'>
   <br>
   <a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>
-    <img src='https://avatars.githubusercontent.com/u/109369743?v=4' alt='mimi' width='200' style='border-radius: 50%;'>
+    <img src='https://i.pinimg.com/originals/6d/38/ac/6d38ac6afb402c6fca75cd66d50ec096.gif' alt='mimi' width='200''>
   </a>
   <br>
   Vo Tran Minh Tan
