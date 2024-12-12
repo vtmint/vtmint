@@ -1,37 +1,29 @@
-name: generate animation
+name: generate snake animation
 
 on:
-  # run automatically every 24 hours
+  # Chạy tự động hàng ngày
   schedule:
-    - cron: "0 */12 * * *" 
-  
-  # allows to manually run the job at any time
+    - cron: "0 0 * * *"
+  # Cho phép chạy thủ công
   workflow_dispatch:
-  
-  # run on every push on the main branch
-  push:
-    branches:
-    - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
+
     steps:
-      # generates a snake game from a github user (vtmint) contributions graph
+      # Bước tạo file SVG rắn săn mồi
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: vtmint
+          github_user_name: vtmint # Thay bằng tên tài khoản GitHub của bạn
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-      # push the content of <build_dir> to a branch
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file>
+
+      # Bước đẩy file SVG lên branch output
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
