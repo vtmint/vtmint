@@ -80,8 +80,6 @@
 
 ---
 
-## Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/vtmint/vtmint/output/github-contribution-grid-snake-dark.svg)
 
 
 ---
