@@ -14,7 +14,7 @@
   </marquee>
 </div>
 
-<div><img align="right" width="350" alt="wall" src="https://i.pinimg.com/474x/a6/5f/db/a65fdb79a97cc0d471012b72441fd753.jpg"/>
+
 
 ### About Me
 - 🎓 Graduated from **Can Tho University**  
