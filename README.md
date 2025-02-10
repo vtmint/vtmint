@@ -81,19 +81,4 @@
 ---
 
 
-
----
-<div align=center>
-  <h3><b>📍Profile Visitor Mint </b></h3>
-</div>
-
-<!-- retro visitor counter -->  
-<p align="center">
-  <img src="https://profile-counter.glitch.me/vtmint/count.svg" />
-</p>
-
 ![footer](https://user-images.githubusercontent.com/59575502/127335603-f2ca1bc8-1fdc-4bd6-8dd6-66358fb089a4.png)
-
-[vt.mint](https://github.com/vtmint)
-
-Last Edited on: 07/12/2024
