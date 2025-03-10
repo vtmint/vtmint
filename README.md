@@ -10,7 +10,7 @@
 
 <div align="center">
   <marquee behavior="scroll" direction="left" scrollamount="5" style="font-size: 24px; color: #ff66ff; font-weight: bold;">
-    Hi guys, I aspire to become a machine learning engineer 🥺
+    🥺
   </marquee>
 </div>
 
